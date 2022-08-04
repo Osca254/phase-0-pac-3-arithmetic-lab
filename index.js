@@ -28,18 +28,12 @@ return n+1;
 function decrement(n){
 return n-1;
 }
+let n = 165;
 function makeInt(n){
+        return parseInt(n,10);
 
-}
-function makeInt(n){
-
-}
-function makeInt(n){
-
-}
-function preserveDecimal(n){
-
-}
-function preserveDecimal(n){
-
-}
+ } makeInt();
+ 
+function  preserveDecimal(n){
+      return parseFloat(n);
+}preserveDecimal()
